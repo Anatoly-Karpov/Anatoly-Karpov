@@ -6,8 +6,8 @@
 
 ### Мои контакты:
 * telephone: +7 965 123 92 33
-* [Telegram: @toli_karpov](http://t.me/toli_karpov)
-* [Email: karpovplace@gmail.com]
+* [telegram: @toli_karpov](http://t.me/toli_karpov)
+* [email: karpovplace@gmail.com]
 
 <!--
 **Anatoly-Karpov/Anatoly-Karpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
