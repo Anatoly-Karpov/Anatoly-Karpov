@@ -2,12 +2,22 @@
 
 ### Меня зовут Анатолий, я JavaScript Developer
 
-### Мой стек: HTML, CSS, JavaScript, React, Redux, NodeJS, Express, PostreSQL, Sequelize
-
 ### Мои контакты:
 * telephone: +7 965 123 92 33
 * [telegram: @toli_karpov](http://t.me/toli_karpov)
 * [email: karpovplace@gmail.com]
+
+
+Techonologies | Description | Tools
+--- | --- | ---
+Javascript | *methodology* | MVC, DOM, TDD, AJAX, OOP
+React | *services* | React router DOM v6, Redux, Redux saga, React Hooks
+node.js | *stack* | Express, Socket IO, REST API, axios
+SQL | *ORM & DB* | Redis, Postgres, Sequelize
+Development & Deploy | *services* | GIT, Firebase, Heroku, webpack
+Testing | *test* | Jest
+HTML & CSS | *preprocessors & principles* | Ant Design, SaSS, Bootstrap,Material UI, module, grid, flexboxes
+
 
 <!--
 **Anatoly-Karpov/Anatoly-Karpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
