@@ -4,7 +4,7 @@
 
 ### Мои контакты:
 * telephone: +7 965 123 92 33
-* [telegram: @toli_karpov](http://t.me/toli_karpov)
+* [telegram: @toly_karpov](http://t.me/toli_karpov)
 * [email: karpovplace@gmail.com]
 
 
