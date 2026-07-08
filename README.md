@@ -1,46 +1,36 @@
-### Привет! 👋
+# Привет! 👋 Я Анатолий — Frontend Developer
 
-### Меня зовут Анатолий, я Frontend Developer
+📫 [Telegram](https://t.me/toly_karpov) · [Email](mailto:karpovplace@gmail.com) · +7 965 123 92 33
 
-### Мои контакты:
-* telephone: +7 965 123 92 33
-* [telegram: @toly_karpov](http://t.me/toli_karpov)
-* [email: karpovplace@gmail.com]
+---
 
+## 🚀 Основной стек
 
-Techonologies | Description | Tools
---- | --- | ---
-Javascript | *methodology* | MVC, DOM, TDD, AJAX, OOP
-React | *services* | React router DOM v6, Redux, Redux saga, React Hooks
-node.js | *stack* | Express, Socket IO, REST API, axios
-SQL | *ORM & DB* | Redis, Postgres, Sequelize
-Development & Deploy | *services* | GIT, Firebase, Heroku, webpack
-Testing | *test* | Jest
-HTML & CSS | *preprocessors & principles* | Ant Design, SaSS, Bootstrap,Material UI, module, grid, flexboxes
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFE86C?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
-![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=Node)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![Jest](https://img.shields.io/badge/-jest-090909?style=for-the-badge&logo=jest)
+---
 
+## 💼 Дополнительный стек
 
-
-<!--
-**Anatoly-Karpov/Anatoly-Karpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vuex](https://img.shields.io/badge/Vuex-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=rest&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4E4E4E?style=for-the-badge&logo=socket.io&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-00979D?style=for-the-badge&logo=grpc&logoColor=white)
+![Telegraf.js](https://img.shields.io/badge/Telegraf.js-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-333333?style=for-the-badge&logo=arangodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
