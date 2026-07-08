@@ -1,6 +1,9 @@
 # Привет! 👋 Я Анатолий — Frontend Developer
 
-📫 [Telegram](https://t.me/toly_karpov) · [Email](mailto:karpovplace@gmail.com) · +7 965 123 92 33
+## 📫 Контакты
+- 📱 [+7 965 123 92 33](tel:+79651239233)
+- ✈️ [Telegram: @toly_karpov](https://t.me/toly_karpov)
+- 📧 [karpovplace@gmail.com](mailto:karpovplace@gmail.com)
 
 ---
 
