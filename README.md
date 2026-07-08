@@ -1,6 +1,6 @@
 ### Привет! 👋
 
-### Меня зовут Анатолий, я JavaScript Developer
+### Меня зовут Анатолий, я Frontend Developer
 
 ### Мои контакты:
 * telephone: +7 965 123 92 33
